@@ -18,6 +18,7 @@ C = (X - A) / B
 # prints the 5x5 array with original Values
 print("The Normal Values are:")
 print(X)
+
 # prints the 5x5 array with the normalized values
 print("The Normalized Values are:")
 print(C)
