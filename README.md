@@ -30,7 +30,7 @@ print(C)
 
 
 ## 2. Divisible By 3 Problem
-This code generates a 10x10 array filled with the squares of integers from 1 to 100. It also separately prints the numbers found inside the array that are divisible by 3 
+This code generates a 10x10 array filled with the squares of integers from 1 to 100. It also prints another array containing numbers divisible by 3 found in the original array.
 ```python
 # import numpy to access its library
 import numpy as np
