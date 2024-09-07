@@ -24,6 +24,7 @@ print("The Normalized Values are:")
 print(C)
 ```
 **Output:** 
+
 ![image](https://github.com/user-attachments/assets/f5f13a19-2b67-4ea8-a52a-ee6f63b935d0)
 
 ## 2. Divisible By 3 Problem
@@ -56,4 +57,5 @@ print("The numbers divisible by 3 are:")
 print(D)
 ```
 **Output:** 
+
 ![image](https://github.com/user-attachments/assets/152bf7e6-133f-42eb-a954-aae979a0bcc5)
