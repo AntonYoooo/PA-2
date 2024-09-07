@@ -2,7 +2,7 @@
 This repository includes the solution to different programming problems involving the Numpy Library. 
 
 ## 1. Normalization Problem
-This code generates and prints a 5X5 array with random values and its normalized version 
+This code's goal is to generate and print a 5X5 array with random values and its normalized version using numpy. 
 ```python
 # import numpy to access its library
 import numpy as np
