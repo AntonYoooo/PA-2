@@ -1,4 +1,4 @@
-# PA-2
+# PA-2-Numerical-Python
 This repository includes the solution to different programming problems involving the Numpy Library. 
 
 ## 1. Normalization Problem
