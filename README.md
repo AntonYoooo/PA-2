@@ -2,6 +2,7 @@
 This repository includes the solution to different programming problems involving the Numpy Library. 
 
 ## 1. Normalization Problem
+This code generates and prints a 5X5 array with random values and its normalized version 
 ```python
 # import numpy to access its library
 import numpy as np
@@ -28,6 +29,7 @@ print(C)
 ![image](https://github.com/user-attachments/assets/f5f13a19-2b67-4ea8-a52a-ee6f63b935d0)
 
 ## 2. Divisible By 3 Problem
+This code prints out a 10X10 array filled with the squared values of the integers 1-100. It also prints the numbers within the array that are divisible by 3. 
 ```python
 # import numpy to access its library
 import numpy as np
