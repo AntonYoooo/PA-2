@@ -17,7 +17,7 @@ B = X.std()
 C = (X - A) / B
 
 # prints the 5x5 array with original Values
-print("The Normal Values are:")
+print("The Original Values Generated are:")
 print(X)
 
 # prints the 5x5 array with the normalized values
@@ -26,7 +26,8 @@ print(C)
 ```
 **Output:** 
 
-![image](https://github.com/user-attachments/assets/f5f13a19-2b67-4ea8-a52a-ee6f63b935d0)
+![image](https://github.com/user-attachments/assets/7f0d9d36-a1a6-4ea0-8bf7-684618247141)
+
 
 ## 2. Divisible By 3 Problem
 This code generates a 10x10 array filled with the squares of integers from 1 to 100. It also separately prints the numbers found inside the array that are divisible by 3 
@@ -51,13 +52,11 @@ D = C.reshape(3, 11)
 print("The squares of the first 100 natural numbers are:")
 print(B)
 
-# \n for readability 
-print("\n") 
-
 # prints the numbers divisible by 3 found on array B 
 print("The numbers divisible by 3 are:")
 print(D)
 ```
 **Output:** 
 
-![image](https://github.com/user-attachments/assets/152bf7e6-133f-42eb-a954-aae979a0bcc5)
+![image](https://github.com/user-attachments/assets/138ff208-0e1c-417a-ad42-f8fe6fe5b0c1)
+
